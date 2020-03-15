@@ -4,7 +4,7 @@ This repository is not a hobby or a side-project, but a code maintained by a for
 
 # About this repository
 
-This repository is maintained by the company [GeekSeller.com](https://www.geekseller.com/), and it is a fork of another[eBay SDK repository](https://github.com/davidtsadler/ebay-sdk-php/). The original code has been developed by [David T. Sadler](https://github.com/davidtsadler), however, in February 2020, David archived the project and decided not to continue maintaining it. GeekSeller uses David’s SDK in the production, so we decided to create a fork of this SDK, maintain it as a separate project and offer it to the community.
+This repository is maintained by the company [GeekSeller.com](https://www.geekseller.com/), and it is a fork of another [eBay SDK repository](https://github.com/davidtsadler/ebay-sdk-php/). The original code has been developed by [David T. Sadler](https://github.com/davidtsadler), however, in February 2020, David archived the project and decided not to continue maintaining it. GeekSeller uses David’s SDK in the production, so we decided to create a fork of this SDK, maintain it as a separate project and offer it to the community.
 
 Please note that GeekSeller is part of the eBay Developer Program and we have our eBay application listed in the [eBay Solution Directory](https://cgi6.ebay.com/ws/eBayISAPI.dll?SolutionsDirectory&page=details&solutionId=705084376), however, this SDK is not endorsed, sponsored or maintained by eBay.
 
