@@ -3,6 +3,7 @@
     "description": "An eBay SDK for PHP. Use the eBay API in your PHP projects.",
     "keywords": ["ebay", "api", "sdk"],
     "homepage": "https://www.geekseller.com/",
+    "version": "0.1.0",
     "type": "library",
     "license": "(Apache-2.0 and MIT)",
     "authors": [
