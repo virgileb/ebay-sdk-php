@@ -10,30 +10,31 @@
 
 namespace DTS\eBaySDK\Fulfillment\Types;
 
+
 /**
  *
- * @property string $username
- * @property BuyerTaxAddress $taxAddress
+ * @property string $countryCode
+ * @property string $postalCode
+ *
  */
-class Buyer extends \DTS\eBaySDK\Types\BaseType
+class BuyerTaxAddress extends \DTS\eBaySDK\Types\BaseType
 {
     /**
      * @var array Properties belonging to objects of this class.
      */
     private static $propertyTypes = [
-        'username' => [
+        'postalCode' => [
             'type' => 'string',
             'repeatable' => false,
             'attribute' => false,
-            'elementName' => 'username'
+            'elementName' => 'postalCode'
         ],
-        'taxAddress' => [
-            'type' => 'DTS\eBaySDK\Fulfillment\Types\BuyerTaxAddress',
+        'countryCode' => [
+            'type' => 'string',
             'repeatable' => false,
             'attribute' => false,
-            'elementName' => 'taxAddress'
+            'elementName' => 'countryCode'
         ],
-
     ];
 
     /**
